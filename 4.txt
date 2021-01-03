@@ -1,4 +1,7 @@
 
+1.txt
+123
+The term ‘environmental foreign policy’ or ‘environmental diplomacy’ has been widely used since the ending of the Cold War.
 2.txt
 176
 The term mainly refers to “international negotiations
@@ -11,6 +14,3 @@ In addition, the term refers to a country’s foreign
 policy-making with respect to environmental issues along
 with its standing in international
 environmental meetings.
-1.txt
-123
-The term ‘environmental foreign policy’ or ‘environmental diplomacy’ has been widely used since the ending of the Cold War.
