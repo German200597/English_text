@@ -8,7 +8,8 @@ with open('4.txt', 'a') as final:
       final.write(os.path.basename(i)+'\n')
       piece = file.read()
     final.write(str(len(piece))+'\n')
-    final.write(piece+'\n') 
+    final.write(piece+'\n')
+
    
 
 
