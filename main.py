@@ -4,8 +4,8 @@ folder.sort()
 with open('4.txt', 'a') as final:
   folder.sort()
   for i in folder:
-    counter=0
     with open(os.path.join('docs', i)) as file:
+      counter=0
       for line in i:
         counter+=1
       final.write(os.path.basename(i)+'\n')
